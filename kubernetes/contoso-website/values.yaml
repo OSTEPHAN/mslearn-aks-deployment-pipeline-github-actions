@@ -1,5 +1,5 @@
 image:
-  repository: contosocontainerregistry20308.azurecr.io
+  registry: contosocontainerregistry20308.azurecr.io
   name: contoso-website
   tag: latest
 
