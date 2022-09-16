@@ -1,0 +1,7 @@
+image:
+  repository: contosocontainerregistry20308.azurecr.io
+  name: contoso-website
+  tag: latest
+
+dns:
+  name: a0ae1d5865c94b9790d0.eastus.aksapp.io
